@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/impulkit86" target="blank"><img src="https://img.shields.io/twitter/follow/impulkit86?logo=twitter&style=for-the-badge" alt="impulkit86" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning,CSS**
+- 🌱 I’m currently learning **Machine Learning,Javascript**
 
-- 💬 Ask me about **C,C++,HTML,Python**
+- 💬 Ask me about **C,C++,HTML,CSS,Python**
 
 - 📫 How to reach me **pulkitarora8690@gmail.com**
 
