@@ -111,14 +111,14 @@
 
 
 
-<hr>
+<!-- <hr>
   
  **My Holopins and Badges**
 
 [![@pulkit_arora's Holopin board](https://holopin.me/pulkit8690)](https://holopin.io/pulkit8690)
 
 
-<hr>
+<hr> -->
 
 <!-- STATUS -->
 <h2 align="center">⚡ Stats ⚡</h2>
