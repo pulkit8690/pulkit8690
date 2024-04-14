@@ -140,7 +140,7 @@
 
   <div align=center>
     <a href="https://github.com/pulkit8690?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit8690&layout=compact&langs_count=10&theme=github_dark">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit8690&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=github_dark">
     </a>
   </div>
   
