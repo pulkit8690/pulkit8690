@@ -32,7 +32,9 @@
   <code><a href="https://www.linkedin.com/in/pulkit-arora-731b17227/" title="LinkedIn Profile"><img width="35" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/PulkitArora/" title="Leetcode Profile"><img width="40" src="images/leetcode.svg"> Leetcode</a></code>
   <code><a href="https://twitter.com/impulkit86" title="Twitter Profile"><img width="40" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.geeksforgeeks.org/user/pulkit8690/" title="GeeksforGeeks Profile"><img width="40" src="images/icons8-geeksforgeeks.svg"> GeeksforGeeks</a></code>
 </h5>
+
 
 
 <br>
