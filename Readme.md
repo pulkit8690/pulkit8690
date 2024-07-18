@@ -97,9 +97,9 @@
 <!--   <code><img title=".NetCore" height="30" src="images/dotnetcore.svg"></code> -->
 <!--   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code> -->
 <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-<!-- <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code> -->
+<code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
 <!-- <code><img title="JQuery" height="40" src="images/jquery-original.svg"></code> -->
-<!-- <code><img title="Java" height="40" src="images/java-original.svg"></code> -->
+<code><img title="Java" height="40" src="images/java-original.svg"></code>
 <!-- <code><img title="JSON" height="40" src="images/json.svg"></code> -->
 <!--   <code><img title="Unity" height="30" src="images/unity3d.svg"></code> -->
 <!--   <code><img title="Android" height="30" src="images/android.svg"></code> -->
