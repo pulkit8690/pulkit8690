@@ -152,9 +152,9 @@
 
 <br>
 
-<div align="center">
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)](https://www.geeksforgeeks.org/user/pulkit8690/)
-</div>
+### GFG STATS
+![](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
