@@ -153,7 +153,7 @@
 <br>
 
 <div align="center">
-[![Pulkit's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Pulkit's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)](https://www.geeksforgeeks.org/user/pulkit8690/)
 </div>
 
 ### ✍️ Random Dev Quote
