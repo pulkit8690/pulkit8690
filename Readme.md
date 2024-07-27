@@ -152,6 +152,9 @@
 
 <br>
 
+<div align="center">
+[![Pulkit's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
