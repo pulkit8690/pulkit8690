@@ -7,6 +7,7 @@
 </div>
 
 <p align="center">
+  <a href="https://www.pulkitarora.co.in/"><img src="https://img.shields.io/badge/Website-pulkitarora.co.in-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/pulkit8690"><img src="https://img.shields.io/badge/GitHub-pulkit8690-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pulkitt-arora/"><img src="https://img.shields.io/badge/LinkedIn-Pulkit%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pulkitarora8690@gmail.com"><img src="https://img.shields.io/badge/Email-pulkitarora8690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -97,6 +98,8 @@ Inventory reservation under contention: **100 concurrent users vs 50 units, 0% o
 ---
 
 <p align="center">
+  <a href="https://www.pulkitarora.co.in/">Website</a>
+  ·
   <a href="https://github.com/pulkit8690">GitHub</a>
   ·
   <a href="https://www.linkedin.com/in/pulkitt-arora/">LinkedIn</a>
