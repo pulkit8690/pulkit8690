@@ -73,12 +73,7 @@ Inventory reservation under contention: **100 concurrent users vs 50 units, 0% o
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=pulkit8690&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=pulkit8690&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pulkit8690&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/pulkit8690/pulkit8690/output/streak.svg" alt="GitHub streak" />
 </div>
 
 <p align="center">
