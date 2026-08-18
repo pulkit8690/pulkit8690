@@ -1,179 +1,114 @@
-<!-- Profiles Viewa and Visitor Views -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&section=header&text=Pulkit%20Arora&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Nagarro&descAlignY=58&descSize=18&descColor=c0caf5" width="100%" alt="header" />
 </div>
 
-
-<br>
-<br>
-
-
-<!-- Introduction in Typing -->
-<h1 align="center">
-  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pulkit+Arora....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-
-<br>
-
-
-<!-- Sankes Eating My Repo -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Java+Backend+Engineer+at+Nagarro;Spring+Boot+%C2%B7+Redis+%C2%B7+AWS+S3;Production+systems+that+stay+up;RAG+and+LLM+integrations+on+the+side" alt="Typing intro" />
 </div>
 
-
-<br>
-
-
-<!-- Social Media  -->
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/pulkit-arora-731b17227/" title="LinkedIn Profile"><img width="35" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/PulkitArora/" title="Leetcode Profile"><img width="40" src="images/leetcode.svg"> Leetcode</a></code>
-  <code><a href="https://twitter.com/impulkit86" title="Twitter Profile"><img width="40" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.geeksforgeeks.org/user/pulkit8690/" title="GeeksforGeeks Profile"><img width="40" src="images/icons8-geeksforgeeks.svg"> GeeksforGeeks</a></code>
-</h5>
-
-
-
-<br>
-<br>
-
-
-<!-- gif for programmers -->
-
-<div align="center">
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="290">
-<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290">
-</div>
-
-
-
-<!-- Introduction About Me  -->
-<h3 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-  <br>
-  💻 I love writing code and learn anythings about it.
-  <br>
-  <br>
-  💬 Ask me about Good First Issues & Exciting projects to work on.
-  <br>
-  <br>
-  😄 Pronouns: He/His
-  <br>
-  <br>
-  ⚡ Fun fact: Can travel anywhere right now
-  <br>
-  <br>
-  📫 How to reach me: <a href="mailto: pulkitarora8690@gmail.com"> ✉️.
-</h3>
-
-
-<!-- My Frameworks And Abilities -->
-<hr>
-<h1 align="center">
-  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Luxi+Mono&color=%237BF700&size=29&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%26+Abilities+%F0%9F%94%A5">
-  </a>
 <p align="center">
-<code><img title="C" height="40" src="images/c.svg"></code>
-<code><img title="C++" height="40" src="images/cpp.svg"></code>
-<!-- <code><img title="C#" height="40" src="images/cSharp.svg"></code> -->
-<code><img title="Python" height="40" src="images/python-original.svg"></code>
-<!-- <code><img title="Django" height="40" src="images/django.png"></code> -->
-<!-- <code><img title="Javascript" height="40" src="images/javascript.svg"></code> -->
-<code><img title="Problem Solving" height="40" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="40" src="images/html5.svg"></code>
-<code><img title="CSS" height="40" src="images/css.svg"></code>
-<!-- <code><img title="SASS" height="40" src="images/sass.svg"></code> -->
-<!--   <code><img title="Gulp" height="30" src="images/gulp.svg"></code> -->
-<!-- <code><img title="React" height="40" src="images/react-original.svg"></code> -->
-<!--   <code><img title="Redux" height="30" src="images/redux.svg"></code> -->
-<!-- <code><img title="AngularJS" height="40" src="images/angularjs.png"></code> -->
-<code><img title="Git" height="40" src="images/git-original.svg"></code>
-<!--   <code><img title=".NetCore" height="30" src="images/dotnetcore.svg"></code> -->
-<!--   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code> -->
-<code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-<code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-<!-- <code><img title="JQuery" height="40" src="images/jquery-original.svg"></code> -->
-<code><img title="Java" height="40" src="images/java-original.svg"></code>
-<!-- <code><img title="JSON" height="40" src="images/json.svg"></code> -->
-<!--   <code><img title="Unity" height="30" src="images/unity3d.svg"></code> -->
-<!--   <code><img title="Android" height="30" src="images/android.svg"></code> -->
-<code><img title="GitHub" height="40" src="images/github.svg"></code>
-<code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-<!--   <code><img title="npm" height="30" src="images/npm.svg"></code> -->
-<!-- <code><img title="PHP" height="40" src="images/php.svg"></code> -->
-  <code><img title="Flask" height="30" src="images/flask.png"></code>
+  <a href="https://github.com/pulkit8690"><img src="https://img.shields.io/badge/GitHub-pulkit8690-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/pulkitt-arora/"><img src="https://img.shields.io/badge/LinkedIn-Pulkit%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pulkitarora8690@gmail.com"><img src="https://img.shields.io/badge/Email-pulkitarora8690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+---
 
+## About
 
+I'm a **Java Backend Engineer at [Nagarro](https://www.nagarro.com)** in Gurgaon, with a little over a year of production work on Spring Boot services.
 
-<!-- <hr>
-  
- **My Holopins and Badges**
+Day to day I modernize enterprise Java systems: Java 8 → 21, Spring Boot 2.x → 4.1.0, NFS/FTP file flows onto **Amazon S3**, and in-process caches onto **Valkey/Redis** with Resilience4j fallbacks. I also work on retrieval quality for LLM-backed chat — embeddings, vector stores, and RAG.
 
-[![@pulkit_arora's Holopin board](https://holopin.me/pulkit8690)](https://holopin.io/pulkit8690)
+```text
+Pulkit Arora
+├─ role      Software Engineer, Backend  ·  Nagarro (Jul 2025 – present)
+├─ previous  Backend Intern  ·  Claw Legal Tech (Apr 2025 – Jun 2025)
+├─ focus     reliable Spring Boot services, caching, fault tolerance
+└─ also      RAG pipelines, embeddings, Azure AI vector search
+```
 
+---
 
-<hr> -->
+## Tech stack
 
-<!-- STATUS -->
-<h2 align="center">⚡ Stats ⚡</h2>
+Only what I use in production or shipped projects.
 
-<br>
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/pulkit8690?tab=repositories">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit8690&theme=tokyonight_duo"/>
-    </a>
-    <a href="https://github.com/pulkit8690?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=pulkit8690&theme=github_dark&show_icons=true" />
-    </a>
-  </div>
-  
-<br><br><br><br>
-<br><br><br><br>
-
-  <div align=center>
-    <a href="https://github.com/pulkit8690?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit8690&hide=jupyter%20notebook,rebol&layout=compact&langs_count=10&theme=github_dark">
-    </a>
-  </div>
-  
-  <br>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,redis,kafka,aws,azure,docker,jenkins,git,githubactions&perline=6" alt="Tech stack" />
 </p>
 
-<br>
+| | |
+| :--- | :--- |
+| **Languages** | Java 21, Python |
+| **Backend** | Spring Boot, Spring Framework, REST APIs, microservices, Spring Data Redis, Apache Tomcat |
+| **Data & messaging** | PostgreSQL, Redis / Valkey, Kafka, AWS S3, optimistic locking, transactional outbox |
+| **Reliability** | Resilience4j (circuit breaker, retry), JWT, RBAC, Spring Boot Actuator |
+| **Cloud & delivery** | AWS, Azure, Docker, Jenkins, GitHub Actions, JUnit, k6 |
+| **AI / ML** | LLMs, Claude Haiku, embeddings, Azure AI Vector DB, RAG, LangChain |
 
-### GFG STATS
-![](https://geeks-for-geeks-stats-api.vercel.app/?userName=pulkit8690)
+---
 
+## Selected work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Nagarro — enterprise finance application *(US automotive client)*
+Java, Spring Boot, AWS S3, Valkey/Redis, Resilience4j
 
-  
-<!-- <h4 align="center">
-    <a href="https://github.com/pulkit8690">
-      <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
-    </a>
-</h4> -->
+Migrated NFS/FTP file processing to S3 as the source of truth. Removed unbounded static `HashMap` caches that were retaining heap, moved caching to Valkey/Redis (including a cache-key fix that stopped per-millisecond miss storms), and put Resilience4j breakers/retries with database fallbacks around cache calls. Platform path: Java 8 / Spring Boot 2.x → Java 21 / Spring Boot 4.1.0.
+
+### Claw Legal Tech — chatbot retrieval
+Claude Haiku, Azure AI Vector DB
+
+Built text embeddings with Claude Haiku and stored them in Azure AI's vector database to improve chatbot retrieval quality.
+
+### Stock Reservation System
+Java, Spring Boot, PostgreSQL, Redis, Kafka, JWT, k6, JUnit
+
+Inventory reservation under contention: **100 concurrent users vs 50 units, 0% oversell** (50 × HTTP 201, 50 × HTTP 409). k6 load checks **103/103**. Reservation p95 ~4.56s on the measured laptop run. Modular monolith with optimistic locking, transactional outbox, JWT/RBAC, Resilience4j, and **45/45** tests passing.
+
+> Repo link: add the public GitHub URL here once the project is public — see placeholders below.
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pulkit8690&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=pulkit8690&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit8690&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulkit8690/pulkit8690/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulkit8690/pulkit8690/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/pulkit8690/pulkit8690/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## Currently
+
+- Shipping backend changes on a production Spring Boot finance system (S3, Valkey/Redis, Resilience4j)
+- Tightening concurrency and correctness patterns (optimistic locking, outbox, load tests)
+- Improving RAG retrieval — embeddings + Azure AI vector search
+
+**OCJP** (Oracle Certified Java Programmer) · B.E. Computer Engineering, Thapar Institute of Engineering and Technology (2025)
+
+---
+
+<p align="center">
+  <a href="https://github.com/pulkit8690">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/pulkitt-arora/">LinkedIn</a>
+  ·
+  <a href="mailto:pulkitarora8690@gmail.com">Email</a>
+</p>
 
 <div align="center">
-    <a href="https://github.com/pulkit8690">
-      <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="footer" />
 </div>
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pulkit8690) 
-
- 
-  
